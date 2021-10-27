@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newGame"
+        android:title="@string/new_game">
+    </item>
+    <item
+        android:id="@+id/easyMode"
+        android:title="@string/easy">
+    </item>
+    <item
+        android:id="@+id/mediumMode"
+        android:title="@string/medium">
+    </item>
+    <item
+        android:id="@+id/hardMode"
+        android:title="@string/hard">
+    </item>
+    <item
+        android:id="@+id/quit"
+        android:title="@string/quit">
+    </item>
+</menu>
